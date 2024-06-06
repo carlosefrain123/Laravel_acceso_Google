@@ -1,2 +1,4 @@
 //Se refresca las migraciones
 php artisan migrate:fresh
+//Se ve Laravel Socialite
+composer require laravel/socialite
