@@ -2,3 +2,5 @@
 php artisan migrate:fresh
 //Se ve Laravel Socialite
 composer require laravel/socialite
+//
+php artisan serve --host=limpiobe.com --port=8000
