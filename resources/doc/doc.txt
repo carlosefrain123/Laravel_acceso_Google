@@ -4,3 +4,6 @@ php artisan migrate:fresh
 composer require laravel/socialite
 //
 php artisan serve --host=limpiobe.com --port=8000
+//credenciales
+GOOGLE_CLIENT_ID=1086297007236-76btgk1hsnv9n7oaodou4oifiior9ms3.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
